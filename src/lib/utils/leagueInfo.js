@@ -7,12 +7,8 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Dynasty 2K25 tells the story of a whining boy from Malvern who won 23 games and the regular championship, only to choke it all away in the end. As stress relief, this player would buy Pokemon Scalet & Violet 151 UPCs left and right from the King of Prussia GameStop. Medical experts across the nation actually argued the point that smoking 3 packs of Marlboros a day might actually be better for one's health. Just ask RFK, Jr. </p>
+  <p>The worst part about this guy is that he wouldn't shut up. He defended himself for drafting two kickers, he called Brock Bowers a bad football player, and he called Aaron Jones a "random guy". The all-time low moment of the season was when he needed 28 points from his kicker to make the championship round. He then proceeded to call his opponent "lucky" after having to root for, yet again, a kicker, to score 28 points on SNF. </p>
 `;
 
 /*   STEP 3   */
